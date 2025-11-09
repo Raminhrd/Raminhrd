@@ -58,12 +58,6 @@
     <a href="https://github.com/Raminhrd"><img src="https://img.shields.io/badge/-Raminhrd-000000?style=flat&logo=github"/></a>
 </p>
 
-<br />
-
-### ✍️ &nbsp;Read more from me on Blog.py :)
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-
-<br/>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Raminhrd&show_icons=true&theme=tokyonight&hide_border=true"
