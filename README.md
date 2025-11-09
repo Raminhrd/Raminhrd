@@ -14,7 +14,7 @@
 
 🐍 &nbsp;I'm a backend developer specialized in **Python, Django, and REST APIs**.\
 💡 &nbsp;I love building clean, scalable, and efficient back-end systems.\
-🚀 &nbsp;Always learning, always creating — passionate about modern web technologies and teamwork.\
+🚀 &nbsp;Always learning, always creating passionate about modern web technologies and teamwork.\
 💬 &nbsp;Feel free to reach out to me for collaboration or discussions about tech and design.
   
 ---
@@ -30,7 +30,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
 
