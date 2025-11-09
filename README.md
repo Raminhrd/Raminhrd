@@ -54,7 +54,7 @@
 
 <p align="center">
     <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:ramingift@gmail.com"><img src="https://img.shields.io/badge/-ramingift@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:raminhr.work@gmail.com"><img src="https://img.shields.io/badge/-ramingift@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/Raminhrd"><img src="https://img.shields.io/badge/-Raminhrd-000000?style=flat&logo=github"/></a>
 </p>
 
