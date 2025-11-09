@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:FF3131&height=90&section=header"/>
 </p>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif"  />
 </div>
 
 <div align="center">
 
-## 🌍 Hello World, I'm Ramin!! 👋👋
+##  Hello World, I'm Ramin!! 👋👋
 
 ### 👨🏻‍💻 &nbsp;About Me
-🐍 &nbsp;I'm a **Python & Django Backend Developer**.\
-💡 &nbsp;I love building scalable APIs and solving real-world problems.\
-🧠 &nbsp;Always learning, always creating.\
-💬 &nbsp;Feel free to reach out — I enjoy talking about tech, startups, and open source.\
-🎯 &nbsp;Currently focusing on **Django REST Framework**, **PostgreSQL**, and **Clean Architecture**.
 
+🐍 &nbsp;I'm a backend developer specialized in **Python, Django, and REST APIs**.\
+💡 &nbsp;I love building clean, scalable, and efficient back-end systems.\
+🚀 &nbsp;Always learning, always creating — passionate about modern web technologies and teamwork.\
+💬 &nbsp;Feel free to reach out to me for collaboration or discussions about tech and design.
+  
 ---
 
 ### 💻 &nbsp;Tech Stack
 
-#### 👨‍💻 &nbsp;Languages, Frameworks and Libraries
+#### 👨‍💻 &nbsp;Languages, Frameworks and Libraries 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![DjangoREST](https://img.shields.io/badge/-DRF-05122A?style=flat&logo=django)&nbsp;
@@ -33,9 +33,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
-#### ⚙️ &nbsp;Tools & IDEs
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+#### ⚙️ &nbsp;IDEs / Editors
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+
+#### 🔧 &nbsp;Version Control 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
@@ -43,27 +47,35 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
+<br />
+
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href=""><img src="https://img.shields.io/badge/-LinkedIn-0047AB?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:ramingift@gmail.com"><img src="https://img.shields.io/badge/-ramingift@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/Raminhrd"><img src="https://img.shields.io/badge/-Raminhrd-000000?style=flat&logo=github"/></a>
 </p>
 
----
+<br />
 
-### ✍️ &nbsp;Languages & Stats
+### ✍️ &nbsp;Read more from me on Blog.py :)
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raminhrd&layout=compact&theme=radical&hide_border=true"/>
+<br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Raminhrd&show_icons=true&theme=radical&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=Raminhrd&show_icons=true&theme=tokyonight&hide_border=true"
   alt="Ramin's GitHub Stats"
 />
 
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=foot
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:FF3131&height=90&section=footer"/>
+</p>
+
+</div>
 
