@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://gifdb.com/images/high/computer-rage-monkey-typing-vnp8fk177u76v2f2.gif" />
+  <img height="200" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" />
 </div>
 
 <div align="center">
